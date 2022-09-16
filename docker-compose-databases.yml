@@ -1,0 +1,17 @@
+﻿version: "3.5"
+
+services:
+  mysql:
+    image: mysql:8.0.26
+    container_name: database-mysql
+    restart: always
+    environment:
+    - MYSQL_ROOT_PASSWORD=Vuelos123
+    ports:
+    - 3307:3306
+    - 33061:33060
+    networks:
+    - vuelos  
+networks:
+  vuelos:
+    name: micro

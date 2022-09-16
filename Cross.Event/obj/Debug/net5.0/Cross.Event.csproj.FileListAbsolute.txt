@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\bin\Debug\net5.0\Cross.Event.deps.json
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\bin\Debug\net5.0\Cross.Event.dll
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\bin\Debug\net5.0\Cross.Event.pdb
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.dll
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\refint\Cross.Event.dll
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\Cross.Event.pdb
+C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\obj\Debug\net5.0\ref\Cross.Event.dll

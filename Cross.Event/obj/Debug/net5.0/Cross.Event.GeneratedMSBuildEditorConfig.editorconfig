@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cross.Event
+build_property.ProjectDir = C:\Users\Gabriel\Documents\2.- Diplomado_Arquitectura_Microservicios\Arquitectura_Software\RegistroVuelos\Cross.Event\

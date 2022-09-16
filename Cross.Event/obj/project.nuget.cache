@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "EcxLzHinpoMx0033c3xqk7nFFk31OC53CRHRNE850alb8HjvDyotKQC4Zp3Xiu0YIq23XB5G4jD6iZbTbTW12Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
