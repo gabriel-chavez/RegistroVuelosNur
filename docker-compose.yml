@@ -1,7 +1,17 @@
 ﻿version: "3.5"
 
 services:
-  mysql:
+  ms-vuelos:
+    image: gabrielchavezr/ms-vuelos:v1
+    ports:
+      - "8182:80"
+      - "4434:443"
+    environment:
+      mysql:cn: "server=database-mysql;database=db_vuelos;user=root;password=Vuelos123"
+      #ConnectionStrings:mysql: "server=database-mysql;port=3307;database=AeronaveDb;user=root;password=Vuelos123"
+    depends_on:
+      - database-mysql
+  database-mysql:
     image: mysql:8.0.26
     container_name: database-mysql
     restart: always
@@ -10,8 +20,4 @@ services:
     ports:
     - 3307:3306
     - 33061:33060
-    networks:
-    - vuelos  
-networks:
-  vuelos:
-    name: micro
+    
