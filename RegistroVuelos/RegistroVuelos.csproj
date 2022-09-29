@@ -15,4 +15,6 @@
     <ProjectReference Include="..\Cross.Event\Cross.Event.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1local_1json__JsonSchema="https://carafe.fm/schema/draft-02/bundle.schema.json" /></VisualStudio></ProjectExtensions>
+
 </Project>

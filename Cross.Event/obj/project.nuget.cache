@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EcxLzHinpoMx0033c3xqk7nFFk31OC53CRHRNE850alb8HjvDyotKQC4Zp3Xiu0YIq23XB5G4jD6iZbTbTW12Q==",
+  "dgSpecHash": "sJq7LJKMjbTRtKKwQOwIIDnGFNTJZGZSEklXjWBk8D2+sI3KUEKT08qUm+hHqbQ1pV58F1sb6wQdQ3YddGkaEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",

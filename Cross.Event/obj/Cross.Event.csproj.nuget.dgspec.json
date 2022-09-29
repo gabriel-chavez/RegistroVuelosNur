@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
         "projectName": "Cross.Event",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\Cross.Event\\Cross.Event.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\Arquitectura_Software\\RegistroVuelos\\Cross.Event\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\Cross.Event\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
