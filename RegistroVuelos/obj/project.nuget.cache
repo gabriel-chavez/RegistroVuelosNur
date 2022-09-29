@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kU339lAQdki2SnzWYUXhSSZWNQ8f15C+Kv7zDEBP07+IcdEfaX8apmLbUM12Z6n9QFSXn8fsznUg26/kBSIvOA==",
+  "dgSpecHash": "hfiDwIIl9Hko9GBIzlHz2NH+rt0tfiROAzWGXnfzmHZgSOa+hY7iudBFU27dZGAgGoUimI0WrcJ7Le+cKzBLBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel\\Documents\\2.- Diplomado_Arquitectura_Microservicios\\01.- Trabajo final\\RegistroVuelos\\RegistroVuelos\\RegistroVuelos.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\mysql.data\\8.0.27\\mysql.data.8.0.27.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\mysql.entityframeworkcore\\5.0.8\\mysql.entityframeworkcore.5.0.8.nupkg.sha512",
